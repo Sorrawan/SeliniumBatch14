@@ -1,0 +1,17 @@
+
+
+
+
+
+
+
+
+
+//driver.get() ============ driver.navigate().to()
+
+
+
+Navigate allow you to move forward, backward and refresh the page
+  //driver.navigate().back()
+  //driver.navigate().forward()
+  //driver.navigate().()
