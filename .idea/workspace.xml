@@ -1,19 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="0d06a399-60ad-4ec4-9457-d23d186da08b" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SeliniumBatch14.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/Syntax/class02/Hw2Fb.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/Syntax/class02/Hwparabank.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/Syntax/class02/LocatingElements.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/Syntax/class02/WebOrder.java" afterDir="false" />
+    <list default="true" id="0d06a399-60ad-4ec4-9457-d23d186da08b" name="Changes" comment="Initial version">
+      <change afterPath="$PROJECT_DIR$/src/com/Syntax/class04/CssSelector.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/Syntax/class02/Hwparabank.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/Syntax/class02/Hwparabank.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/Syntax/class03/XpathDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/Syntax/class03/XpathDemo.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -55,13 +47,26 @@
       <recent name="C:\Users\choco\IdeaProjects\SeliniumBatch14\src\com\Syntax\class01" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Hw2Fb">
+  <component name="RunManager" selected="Application.CssSelector">
     <configuration name="Basics" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.Syntax.reviewClass.Basics" />
       <module name="SeliniumBatch14" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="com.Syntax.reviewClass.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CssSelector" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.Syntax.class04.CssSelector" />
+      <module name="SeliniumBatch14" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.Syntax.class04.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -95,19 +100,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="WebOrder" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.Syntax.class02.WebOrder" />
-      <module name="SeliniumBatch14" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.Syntax.class02.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="XpathDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.Syntax.class03.XpathDemo" />
       <module name="SeliniumBatch14" />
@@ -123,11 +115,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.CssSelector" />
+        <item itemvalue="Application.XpathDemo" />
         <item itemvalue="Application.Hw2Fb" />
         <item itemvalue="Application.Basics" />
         <item itemvalue="Application.Hw2class2" />
-        <item itemvalue="Application.XpathDemo" />
-        <item itemvalue="Application.WebOrder" />
       </list>
     </recent_temporary>
   </component>
@@ -140,6 +132,14 @@
       <option name="presentableId" value="Default" />
       <updated>1666043778166</updated>
     </task>
+    <task id="LOCAL-00001" summary="Initial version">
+      <created>1667172307997</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1667172307997</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -152,5 +152,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Initial version" />
+    <option name="LAST_COMMIT_MESSAGE" value="Initial version" />
   </component>
 </project>

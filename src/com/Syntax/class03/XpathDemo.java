@@ -15,13 +15,13 @@ public class XpathDemo {
         driver.get("https://www.facebook.com/");
 //Enter Password
         driver.findElement(By.xpath("//input[@id='email']")).sendKeys("Abcdefg");
-driver.findElement(By.xpath("//a[text()='Forgot password?']")).click();
+        driver.findElement(By.xpath("//a[text()='Forgot password?']")).click();
 
 //Using xpath by text
-driver.findElement(By.xpath("//button[contains(@type,'submit')]")).click();
+        driver.findElement(By.xpath("//button[contains(@type,'submit')]")).click();
 
         //Using xpath by Contains method
-       // driver.findElement(By.xpath("//a[contains(text(),'Forgot')]")).click();  // No need to copy the hole word"Forgot password?" => "Forgot"
+        // driver.findElement(By.xpath("//a[contains(text(),'Forgot')]")).click();  // No need to copy the hole word"Forgot password?" => "Forgot"
 
 
     }
