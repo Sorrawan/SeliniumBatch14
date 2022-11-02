@@ -22,6 +22,7 @@ public class CssSelector {
         //textbox = variable name
         WebElement textbox = driver.findElement(By.cssSelector("input[placeholder*='Please enter']"));
         textbox.sendKeys("Sdfjkds");
+
 //Press the button "shoe message"
         WebElement button = driver.findElement(By.cssSelector("button[onclick ^='showIn']"));
         button.click();
