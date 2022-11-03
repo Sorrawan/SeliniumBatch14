@@ -1,6 +1,6 @@
 package com.Syntax.class04;
 
-public class Hw1 {
+public class Hw1Class4 {
     /*
     Open chrome browser
 Go to “http://hrm.syntaxtechs.net/humanresources/symfony/web/index.php/auth/login”

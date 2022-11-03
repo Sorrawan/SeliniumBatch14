@@ -1,6 +1,6 @@
 package com.Syntax.class04;
 
-public class Hw2 {
+public class Hw2Class4 {
     /*
     HRMS Application Negative Login:
 Open chrome browser
