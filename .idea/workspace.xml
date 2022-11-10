@@ -1,10 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="0d06a399-60ad-4ec4-9457-d23d186da08b" name="Changes" comment="Hwclass04 and class05">
+    <list default="true" id="0d06a399-60ad-4ec4-9457-d23d186da08b" name="Changes" comment="HwClass05">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/Syntax/class04/Hw1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/Syntax/class04/Hw1Class4.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/Syntax/class04/Hw2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/Syntax/class04/Hw2Class4.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/Syntax/class05/Hw2Class5.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/Syntax/class05/Hw2Class5.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -48,39 +47,13 @@
       <recent name="C:\Users\choco\IdeaProjects\SeliniumBatch14\src\com\Syntax\class01" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Hw2Class5">
-    <configuration name="DropDownDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.Syntax.class05.DropDownDemo" />
+  <component name="RunManager" selected="Application.frames">
+    <configuration name="Alerts" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.Syntax.class06.Alerts" />
       <module name="SeliniumBatch14" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.Syntax.class05.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="GetAllLinks" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.Syntax.class05.GetAllLinks" />
-      <module name="SeliniumBatch14" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.Syntax.class05.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Hw1Class5" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.Syntax.class05.Hw1Class5" />
-      <module name="SeliniumBatch14" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.Syntax.class05.*" />
+          <option name="PATTERN" value="com.Syntax.class06.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -101,12 +74,38 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="multipleSelectDropDown" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.Syntax.class05.multipleSelectDropDown" />
+    <configuration name="PracticeDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.Syntax.reviewClass02.PracticeDemo" />
       <module name="SeliniumBatch14" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.Syntax.class05.*" />
+          <option name="PATTERN" value="com.Syntax.reviewClass02.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="eBayDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.Syntax.reviewClass02.eBayDemo" />
+      <module name="SeliniumBatch14" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.Syntax.reviewClass02.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="frames" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.Syntax.class06.frames" />
+      <module name="SeliniumBatch14" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.Syntax.class06.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -116,11 +115,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.frames" />
+        <item itemvalue="Application.Alerts" />
+        <item itemvalue="Application.eBayDemo" />
         <item itemvalue="Application.Hw2Class5" />
-        <item itemvalue="Application.DropDownDemo" />
-        <item itemvalue="Application.GetAllLinks" />
-        <item itemvalue="Application.multipleSelectDropDown" />
-        <item itemvalue="Application.Hw1Class5" />
+        <item itemvalue="Application.PracticeDemo" />
       </list>
     </recent_temporary>
   </component>
@@ -161,7 +160,14 @@
       <option name="project" value="LOCAL" />
       <updated>1667440529856</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="HwClass05">
+      <created>1667449829640</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1667449829640</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -179,6 +185,7 @@
     <MESSAGE value="Initial version" />
     <MESSAGE value="class04" />
     <MESSAGE value="Hwclass04 and class05" />
-    <option name="LAST_COMMIT_MESSAGE" value="Hwclass04 and class05" />
+    <MESSAGE value="HwClass05" />
+    <option name="LAST_COMMIT_MESSAGE" value="HwClass05" />
   </component>
 </project>
