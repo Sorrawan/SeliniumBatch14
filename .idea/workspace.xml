@@ -1,8 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="0d06a399-60ad-4ec4-9457-d23d186da08b" name="Changes" comment="class08">
+    <list default="true" id="0d06a399-60ad-4ec4-9457-d23d186da08b" name="Changes" comment="class09">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/Syntax/class09/HwDynamicTables.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/Syntax/class09/HwDynamicTables.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -46,52 +47,13 @@
       <recent name="C:\Users\choco\IdeaProjects\SeliniumBatch14\src\com\Syntax\class01" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.DynamicReview">
+  <component name="RunManager" selected="Application.calandar2">
     <configuration name="DynamicReview" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.Syntax.class09.DynamicReview" />
       <module name="SeliniumBatch14" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="com.Syntax.class09.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="DynamicTables" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.Syntax.class09.DynamicTables" />
-      <module name="SeliniumBatch14" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.Syntax.class09.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="HwDynamicTables" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.Syntax.class09.HwDynamicTables" />
-      <module name="SeliniumBatch14" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.Syntax.class09.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="HwWait" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.Syntax.class08.HwWait" />
-      <module name="SeliniumBatch14" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.Syntax.class08.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -112,13 +74,52 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="calandar" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.Syntax.class10.calandar" />
+      <module name="SeliniumBatch14" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.Syntax.class10.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="calandar2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.Syntax.class10.calandar2" />
+      <module name="SeliniumBatch14" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.Syntax.class10.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="calendarPagination" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.Syntax.class10.calendarPagination" />
+      <module name="SeliniumBatch14" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.Syntax.class10.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.calandar2" />
+        <item itemvalue="Application.calandar" />
+        <item itemvalue="Application.calendarPagination" />
         <item itemvalue="Application.DynamicReview" />
         <item itemvalue="Application.Quiz" />
-        <item itemvalue="Application.HwDynamicTables" />
-        <item itemvalue="Application.DynamicTables" />
-        <item itemvalue="Application.HwWait" />
       </list>
     </recent_temporary>
   </component>
@@ -187,7 +188,14 @@
       <option name="project" value="LOCAL" />
       <updated>1668575178784</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="class09">
+      <created>1668825779087</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1668825779087</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -209,6 +217,7 @@
     <MESSAGE value="Class06" />
     <MESSAGE value="Class07andReview03" />
     <MESSAGE value="class08" />
-    <option name="LAST_COMMIT_MESSAGE" value="class08" />
+    <MESSAGE value="class09" />
+    <option name="LAST_COMMIT_MESSAGE" value="class09" />
   </component>
 </project>

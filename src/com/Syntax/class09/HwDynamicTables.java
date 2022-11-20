@@ -41,8 +41,10 @@ Hum@nhrm123
         pim.click();
 
         //        check the checkBox that contains "41065A" in ID column
+        //Grt the column
         List<WebElement> secondColumn = driver.findElements(By.xpath("//table[@class='table hover']/tbody/tr/td[2]"));
 //        traverse through the list
+        //must be i=0 so will be loop all info in that column
         for (int i = 0; i < secondColumn.size(); i++) {
             String id=secondColumn.get(i).getText();
 
