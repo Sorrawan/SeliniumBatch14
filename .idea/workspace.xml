@@ -1,9 +1,42 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="0d06a399-60ad-4ec4-9457-d23d186da08b" name="Changes" comment="class09">
+    <list default="true" id="0d06a399-60ad-4ec4-9457-d23d186da08b" name="Changes" comment="reviewClass04">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/Syntax/class09/HwDynamicTables.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/Syntax/class09/HwDynamicTables.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/Syntax/class03/Practice.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/Syntax/class03xPath/Practice.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/Syntax/class03/XpathDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/Syntax/class03xPath/XpathDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/Syntax/class04/AdditionalMethod.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/Syntax/class04RadioButtons/AdditionalMethod.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/Syntax/class04/CssSelector.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/Syntax/class04RadioButtons/CssSelector.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/Syntax/class04/Hw1Class4.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/Syntax/class04RadioButtons/Hw1Class4.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/Syntax/class04/Hw2Class4.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/Syntax/class04RadioButtons/Hw2Class4.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/Syntax/class04/RadioButtons.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/Syntax/class04RadioButtons/RadioButtons.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/Syntax/class05/CheckBoxDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/Syntax/class05CheckBoxnDropDown/CheckBoxDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/Syntax/class05/DropDownDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/Syntax/class05CheckBoxnDropDown/DropDownDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/Syntax/class05/GetAllLinks.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/Syntax/class05CheckBoxnDropDown/GetAllLinks.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/Syntax/class05/Hw1Class5.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/Syntax/class05CheckBoxnDropDown/Hw1Class5.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/Syntax/class05/Hw2Class5.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/Syntax/class05CheckBoxnDropDown/Hw2Class5.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/Syntax/class05/checkBoxDemo2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/Syntax/class05CheckBoxnDropDown/checkBoxDemo2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/Syntax/class05/multipleSelectDropDown.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/Syntax/class05CheckBoxnDropDown/multipleSelectDropDown.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/Syntax/class06/Alerts.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/Syntax/class06AlertnFrame/Alerts.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/Syntax/class06/HwClass06Frames.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/Syntax/class06AlertnFrame/HwClass06Frames.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/Syntax/class06/frames.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/Syntax/class06AlertnFrame/frames.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/Syntax/class07/Hw1WindowHandlesClass07.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/Syntax/class07WindowHandle/Hw1WindowHandlesClass07.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/Syntax/class07/Hw2WaitsClass07.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/Syntax/class07WindowHandle/Hw2WaitsClass07.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/Syntax/class07/Hw3Class07.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/Syntax/class07WindowHandle/Hw3Class07.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/Syntax/class07/Wait.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/Syntax/class07WindowHandle/Wait.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/Syntax/class07/implicitWaits.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/Syntax/class07WindowHandle/implicitWaits.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/Syntax/class07/windowHandle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/Syntax/class07WindowHandle/windowHandle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/Syntax/class07/windowHandlingAdvance.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/Syntax/class07WindowHandle/windowHandlingAdvance.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/Syntax/class08/HwWait.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/Syntax/class08Wait/HwWait.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/Syntax/class08/WaitDemo2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/Syntax/class08Wait/WaitDemo2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/Syntax/class08/WaitsDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/Syntax/class08Wait/WaitsDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/Syntax/class08/tableBasic.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/Syntax/class08Wait/tableBasic.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/Syntax/class09/DynamicReview.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/Syntax/class09DynamicTable/DynamicReview.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/Syntax/class09/DynamicTables.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/Syntax/class09DynamicTable/DynamicTables.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/Syntax/class09/HwDynamicTables.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/Syntax/class09DynamicTable/HwDynamicTables.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/Syntax/class10/calandar.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/Syntax/class10Calendar/calandar.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/Syntax/class10/calandar2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/Syntax/class10Calendar/calandar2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/Syntax/class10/calendarPagination.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/Syntax/class10Calendar/calendarPagination.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -49,11 +82,11 @@
   </component>
   <component name="RunManager" selected="Application.wetable">
     <configuration name="calandar" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.Syntax.class10.calandar" />
+      <option name="MAIN_CLASS_NAME" value="com.Syntax.class10Calendar.calandar" />
       <module name="SeliniumBatch14" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.Syntax.class10.*" />
+          <option name="PATTERN" value="com.Syntax.class10Calendar.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -62,11 +95,11 @@
       </method>
     </configuration>
     <configuration name="calandar2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.Syntax.class10.calandar2" />
+      <option name="MAIN_CLASS_NAME" value="com.Syntax.class10Calendar.calandar2" />
       <module name="SeliniumBatch14" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.Syntax.class10.*" />
+          <option name="PATTERN" value="com.Syntax.class10Calendar.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -75,11 +108,11 @@
       </method>
     </configuration>
     <configuration name="calendarPagination" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.Syntax.class10.calendarPagination" />
+      <option name="MAIN_CLASS_NAME" value="com.Syntax.class10Calendar.calendarPagination" />
       <module name="SeliniumBatch14" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.Syntax.class10.*" />
+          <option name="PATTERN" value="com.Syntax.class10Calendar.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -195,7 +228,28 @@
       <option name="project" value="LOCAL" />
       <updated>1668825779087</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="class10">
+      <created>1668979151670</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1668979151670</updated>
+    </task>
+    <task id="LOCAL-00011" summary="reviewClass04">
+      <created>1668979432226</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1668979432226</updated>
+    </task>
+    <task id="LOCAL-00012" summary="reviewClass04">
+      <created>1668979450178</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1668979450178</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -218,6 +272,8 @@
     <MESSAGE value="Class07andReview03" />
     <MESSAGE value="class08" />
     <MESSAGE value="class09" />
-    <option name="LAST_COMMIT_MESSAGE" value="class09" />
+    <MESSAGE value="class10" />
+    <MESSAGE value="reviewClass04" />
+    <option name="LAST_COMMIT_MESSAGE" value="reviewClass04" />
   </component>
 </project>
