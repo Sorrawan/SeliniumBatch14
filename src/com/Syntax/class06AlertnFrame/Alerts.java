@@ -10,7 +10,7 @@ public class Alerts {
 
     //Alert = พวกชอบ pop-up โผล่มาจากด้านบนหน้า Webpage
     public static void main(String[] args) throws InterruptedException {
-        System.setProperty("webdriver.chrome.driver", "Drivers/chromedriver.exe");
+        System.setProperty("webdriver.chrome.driver", "Driver/chromedriver.exe");
         WebDriver driver = new ChromeDriver();
         driver.get("https://syntaxprojects.com/javascript-alert-box-demo.php");
 

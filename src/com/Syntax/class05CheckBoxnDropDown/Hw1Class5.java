@@ -14,7 +14,7 @@ public class Hw1Class5 {
 
      */
     public static void main(String[] args) throws InterruptedException {
-        System.setProperty("webdriver.chrome.driver", "Drivers/chromedriver.exe");
+        System.setProperty("webdriver.chrome.driver", "Driver/chromedriver.exe");
         WebDriver driver = new ChromeDriver();
         //1.Go to facebook
         driver.get("https://www.facebook.com/");

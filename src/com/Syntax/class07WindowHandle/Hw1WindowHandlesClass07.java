@@ -22,7 +22,7 @@ u can save the window handle in variables for later use
 
      */
     public static void main(String[] args) throws InterruptedException {
-        System.setProperty("webdriver.chrome.driver", "Drivers/chromedriver.exe");
+        System.setProperty("webdriver.chrome.driver", "Driver/chromedriver.exe");
         WebDriver driver = new ChromeDriver();
         driver.get("http://accounts.google.com/signup");
 

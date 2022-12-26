@@ -14,7 +14,7 @@ close the pop up
 close the browser
      */
     public static void main(String[] args) throws InterruptedException {
-        System.setProperty("webdriver.chrome.driver", "Drivers/chromedriver.exe");
+        System.setProperty("webdriver.chrome.driver", "Driver/chromedriver.exe");
 
         WebDriver driver = new ChromeDriver();
         driver.get("https://www.facebook.com/");

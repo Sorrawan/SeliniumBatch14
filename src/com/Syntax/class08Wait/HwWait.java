@@ -18,7 +18,7 @@ enter text and click disable
 verify the textbox is disabled
      */
     public static void main(String[] args) {
-        System.setProperty("webdriver.chrome.driver", "Drivers/chromedriver.exe");
+        System.setProperty("webdriver.chrome.driver", "Driver/chromedriver.exe");
         // create a WebDriver instance
         WebDriver driver = new ChromeDriver();
         driver.manage().timeouts().implicitlyWait(20, TimeUnit.SECONDS);

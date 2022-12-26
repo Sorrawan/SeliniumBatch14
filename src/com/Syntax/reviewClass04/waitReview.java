@@ -12,7 +12,7 @@ import java.util.concurrent.TimeUnit;
 public class waitReview {
     public static void main(String[] args) {
         //        set the path to the driver to link it with our class    on mac u dont need .exe on windows u need .exe
-        System.setProperty("webdriver.chrome.driver", "Drivers/chromedriver.exe");
+        System.setProperty("webdriver.chrome.driver", "Driver/chromedriver.exe");
         // create a WebDriver instance
         WebDriver driver = new ChromeDriver();
 

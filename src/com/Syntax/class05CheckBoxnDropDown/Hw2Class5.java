@@ -18,7 +18,7 @@ public class Hw2Class5 {
      */
     public static void main(String[] args) {
         // Set the path to driver to lonk it with our class on window we need .exe
-        System.setProperty("webdriver.chrome.driver", "Drivers/chromedriver.exe");
+        System.setProperty("webdriver.chrome.driver", "Driver/chromedriver.exe");
 
         //Create a WebDriver instance
         WebDriver driver = new ChromeDriver();

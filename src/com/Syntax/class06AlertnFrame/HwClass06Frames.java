@@ -16,7 +16,7 @@ goto https://chercher.tech/practice/frames
 2.Select BabyCat from drop dwon
 3. Send text in text box "DONE"
          */
-        System.setProperty("webdriver.chrome.driver", "Drivers/chromedriver.exe");
+        System.setProperty("webdriver.chrome.driver", "Driver/chromedriver.exe");
         WebDriver driver = new ChromeDriver();
         driver.get("https://chercher.tech/practice/frames");
 

@@ -9,7 +9,7 @@ public class maximizeWindow {
   //Maximize your window
 
 
-        System.setProperty("webdriver.chrome.driver","Drivers/chromedriver.exe");
+        System.setProperty("webdriver.chrome.driver","Driver/chromedriver.exe");
  //create instance of WebDriver
         WebDriver driver=new ChromeDriver();
 //Go to Google.com

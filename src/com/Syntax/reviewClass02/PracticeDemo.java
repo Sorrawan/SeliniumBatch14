@@ -9,7 +9,7 @@ import java.util.List;
 
 public class PracticeDemo {
     public static void main(String[] args) {
-        System.setProperty("webdriver.chrome.driver", "Drivers/chromedriver.exe");
+        System.setProperty("webdriver.chrome.driver", "Driver/chromedriver.exe");
 
         WebDriver driver = new ChromeDriver();
 

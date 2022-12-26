@@ -9,7 +9,7 @@ public class launchingBrowser {
 
     // 1. Set the path to the driver to link it with our class
     public static void main(String[] args) {
-        System.setProperty("webdriver.chrome.driver","Drivers/chromedriver.exe");
+        System.setProperty("webdriver.chrome.driver","Driver/chromedriver.exe");
 
 //2.Create a Webdriver instance
         WebDriver driver=new ChromeDriver();

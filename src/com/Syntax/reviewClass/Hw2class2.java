@@ -20,7 +20,7 @@ Note: you are free to choose the type of relative Xpath, but try to use the one 
          */
         //1.Navigate to http://syntaxprojects.com/
         //setting up the WebDriver to connect with Chrome
-        System.setProperty("webdriver.chrome.driver","Drivers/chromedriver.exe");
+        System.setProperty("webdriver.chrome.driver","Driver/chromedriver.exe");
         //create an instance    = to open website
         WebDriver driver=new ChromeDriver();
 

@@ -1,9 +1,68 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="0d06a399-60ad-4ec4-9457-d23d186da08b" name="Changes" comment="class10+Rename classes">
+    <list default="true" id="0d06a399-60ad-4ec4-9457-d23d186da08b" name="Changes" comment="class12">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SeliniumBatch14.iml" beforeDir="false" afterPath="$PROJECT_DIR$/SeliniumBatch14.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/Syntax/class01/NavigateMethod.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/Syntax/class01/NavigateMethod.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/Syntax/class01/launchingBrowser.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/Syntax/class01/launchingBrowser.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/Syntax/class01/maximizeWindow.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/Syntax/class01/maximizeWindow.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/Syntax/class02/Hw2Fb.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/Syntax/class02/Hw2Fb.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/Syntax/class02/Hwparabank.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/Syntax/class02/Hwparabank.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/Syntax/class02/LocatingElements.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/Syntax/class02/LocatingElements.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/Syntax/class02/WebOrder.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/Syntax/class02/WebOrder.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/Syntax/class03xPath/XpathDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/Syntax/class03xPath/XpathDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/Syntax/class04RadioButtons/AdditionalMethod.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/Syntax/class04RadioButtons/AdditionalMethod.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/Syntax/class04RadioButtons/CssSelector.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/Syntax/class04RadioButtons/CssSelector.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/Syntax/class04RadioButtons/RadioButtons.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/Syntax/class04RadioButtons/RadioButtons.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/Syntax/class05CheckBoxnDropDown/CheckBoxDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/Syntax/class05CheckBoxnDropDown/CheckBoxDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/Syntax/class05CheckBoxnDropDown/DropDownDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/Syntax/class05CheckBoxnDropDown/DropDownDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/Syntax/class05CheckBoxnDropDown/GetAllLinks.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/Syntax/class05CheckBoxnDropDown/GetAllLinks.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/Syntax/class05CheckBoxnDropDown/Hw1Class5.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/Syntax/class05CheckBoxnDropDown/Hw1Class5.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/Syntax/class05CheckBoxnDropDown/Hw2Class5.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/Syntax/class05CheckBoxnDropDown/Hw2Class5.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/Syntax/class05CheckBoxnDropDown/checkBoxDemo2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/Syntax/class05CheckBoxnDropDown/checkBoxDemo2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/Syntax/class05CheckBoxnDropDown/multipleSelectDropDown.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/Syntax/class05CheckBoxnDropDown/multipleSelectDropDown.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/Syntax/class06AlertnFrame/Alerts.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/Syntax/class06AlertnFrame/Alerts.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/Syntax/class06AlertnFrame/HwClass06Frames.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/Syntax/class06AlertnFrame/HwClass06Frames.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/Syntax/class06AlertnFrame/frames.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/Syntax/class06AlertnFrame/frames.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/Syntax/class07WindowHandle/Hw1WindowHandlesClass07.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/Syntax/class07WindowHandle/Hw1WindowHandlesClass07.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/Syntax/class07WindowHandle/Hw2WaitsClass07.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/Syntax/class07WindowHandle/Hw2WaitsClass07.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/Syntax/class07WindowHandle/Wait.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/Syntax/class07WindowHandle/Wait.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/Syntax/class07WindowHandle/implicitWaits.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/Syntax/class07WindowHandle/implicitWaits.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/Syntax/class07WindowHandle/windowHandle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/Syntax/class07WindowHandle/windowHandle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/Syntax/class07WindowHandle/windowHandlingAdvance.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/Syntax/class07WindowHandle/windowHandlingAdvance.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/Syntax/class08Wait/HwWait.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/Syntax/class08Wait/HwWait.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/Syntax/class08Wait/WaitDemo2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/Syntax/class08Wait/WaitDemo2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/Syntax/class08Wait/WaitsDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/Syntax/class08Wait/WaitsDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/Syntax/class08Wait/tableBasic.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/Syntax/class08Wait/tableBasic.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/Syntax/class09DynamicTable/DynamicReview.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/Syntax/class09DynamicTable/DynamicReview.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/Syntax/class09DynamicTable/DynamicTables.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/Syntax/class09DynamicTable/DynamicTables.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/Syntax/class09DynamicTable/HwDynamicTables.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/Syntax/class09DynamicTable/HwDynamicTables.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/Syntax/class10Calendar/Hw.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/Syntax/class10Calendar/HwClass10.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/Syntax/class10Calendar/calandar.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/Syntax/class10Calendar/calandar.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/Syntax/class10Calendar/calandar2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/Syntax/class10Calendar/calandar2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/Syntax/class10Calendar/calendarPagination.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/Syntax/class10Calendar/calendarPagination.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/Syntax/class11/Hw.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/Syntax/class11/HwClass11.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/Syntax/class11/actionClass.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/Syntax/class11/actionClass.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/Syntax/class11/actionClassExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/Syntax/class11/actionClassExample.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/Syntax/class11/dragAndDrop.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/Syntax/class11/dragAndDrop.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/Syntax/class11/keyUsage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/Syntax/class11/keyUsage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/Syntax/class11/screenShot.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/Syntax/class11/screenShot.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/Syntax/class12/jsExecutorHighlight.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/Syntax/class12/jsExecutorHighlight.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/Syntax/class12/jsExecutorScroll.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/Syntax/class12/jsExecutorScroll.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/Syntax/class12/uploadFile.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/Syntax/class12/uploadFile.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/Syntax/reviewClass/Basics.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/Syntax/reviewClass/Basics.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/Syntax/reviewClass/Hw2class2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/Syntax/reviewClass/Hw2class2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/Syntax/reviewClass02/PracticeDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/Syntax/reviewClass02/PracticeDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/Syntax/reviewClass02/RadioButtons.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/Syntax/reviewClass02/RadioButtons.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/Syntax/reviewClass02/checkBoxes.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/Syntax/reviewClass02/checkBoxes.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/Syntax/reviewClass02/dropDown.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/Syntax/reviewClass02/dropDown.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/Syntax/reviewClass02/eBayDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/Syntax/reviewClass02/eBayDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/Syntax/reviewClass03/Alerts.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/Syntax/reviewClass03/Alerts.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/Syntax/reviewClass03/implicitWaits.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/Syntax/reviewClass03/implicitWaits.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/Syntax/reviewClass04/waitReview.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/Syntax/reviewClass04/waitReview.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/Syntax/reviewClass04/wetable.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/Syntax/reviewClass04/wetable.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/Syntax/utlis/CommonMethods.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/Syntax/utlis/CommonMethods.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -36,18 +95,48 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "last_opened_file_path": "C:/Users/choco/Downloads/commons-io-2.6.jar",
+    "last_opened_file_path": "C:/Users/choco/IdeaProjects/SeliniumBatch14/Driver",
     "project.structure.last.edited": "Modules",
     "project.structure.proportion": "0.15",
     "project.structure.side.proportion": "0.2"
   }
 }]]></component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\choco\IdeaProjects\SeliniumBatch14\Driver" />
+      <recent name="C:\Users\choco\IdeaProjects\SeliniumBatch14\Drivers" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\choco\IdeaProjects\SeliniumBatch14\src\com\Syntax\class01" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.uploadFile">
+  <component name="RunManager" selected="Application.calandar">
+    <configuration name="DropDownDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.Syntax.class05CheckBoxnDropDown.DropDownDemo" />
+      <module name="SeliniumBatch14" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.Syntax.class05CheckBoxnDropDown.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="calandar" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.Syntax.class10Calendar.calandar" />
+      <module name="SeliniumBatch14" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.Syntax.class10Calendar.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="jsExecutorHighlight" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.Syntax.class12.jsExecutorHighlight" />
       <module name="SeliniumBatch14" />
@@ -74,32 +163,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="loginPageTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.Syntax.Test.loginPageTest" />
-      <module name="SeliniumBatch14" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.Syntax.Test.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="loginPageTestWithPageFactory" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.Syntax.Test.loginPageTestWithPageFactory" />
-      <module name="SeliniumBatch14" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.Syntax.Test.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="uploadFile" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.Syntax.class12.uploadFile" />
       <module name="SeliniumBatch14" />
@@ -115,11 +178,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.calandar" />
+        <item itemvalue="Application.DropDownDemo" />
         <item itemvalue="Application.uploadFile" />
         <item itemvalue="Application.jsExecutorHighlight" />
         <item itemvalue="Application.jsExecutorScroll" />
-        <item itemvalue="Application.loginPageTestWithPageFactory" />
-        <item itemvalue="Application.loginPageTest" />
       </list>
     </recent_temporary>
   </component>
@@ -223,7 +286,14 @@
       <option name="project" value="LOCAL" />
       <updated>1669161842947</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="class12">
+      <created>1669256423393</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1669256423393</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -249,6 +319,7 @@
     <MESSAGE value="class10" />
     <MESSAGE value="reviewClass04" />
     <MESSAGE value="class10+Rename classes" />
-    <option name="LAST_COMMIT_MESSAGE" value="class10+Rename classes" />
+    <MESSAGE value="class12" />
+    <option name="LAST_COMMIT_MESSAGE" value="class12" />
   </component>
 </project>

@@ -9,7 +9,7 @@ import java.util.concurrent.TimeUnit;
 
 public class implicitWaits {
     public static void main(String[] args) {
-        System.setProperty("webdriver.chrome.driver", "Drivers/chromedriver.exe");
+        System.setProperty("webdriver.chrome.driver", "Driver/chromedriver.exe");
         WebDriver driver = new ChromeDriver();
 
         //20sec is max and perfect time

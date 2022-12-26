@@ -11,7 +11,7 @@ import java.util.concurrent.TimeUnit;
 public class Alerts {
     public static void main(String[] args) throws InterruptedException {
         //       setting up the webDriver
-        System.setProperty("webdriver.chrome.driver","Drivers/chromedriver.exe");
+        System.setProperty("webdriver.chrome.driver","Driver/chromedriver.exe");
 //        create an instance
         WebDriver driver= new ChromeDriver();
 //        open the demoqa Alerts

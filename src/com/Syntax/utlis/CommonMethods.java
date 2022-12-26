@@ -11,7 +11,7 @@ public class CommonMethods {
     //Declare as a " public static" so another class can inheritance
     public static WebDriver driver;
     public static void openWithSpecificUrl(String url) {
-        System.setProperty("webdriver.chrome.driver", "Drivers/chromedriver.exe");
+        System.setProperty("webdriver.chrome.driver", "Driver/chromedriver.exe");
 
         driver = new ChromeDriver();
         driver.get(url);
